@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Penetration Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyb3rM3rlin](https://github.com/Cyb3rM3rlin)
 
-- 💬 Ask me about **Android, python**
+- 💬 Ask me about **Android, python, linux, Kali, Metasploit**
 
 - 📫 How to reach me **cyb3rm3rlin@krip.anonaddy.com**
 
