@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cyb3rm3rlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cyb3rm3rlin" height="30" width="40" /></a>
-<a href="https://twitter.com/krishnaprasadn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="krishnaprasadn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krishna-prasad-nayani-a9baa7163/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/krishna-prasad-nayani-a9baa7163/" height="30" width="40" /></a>
+<a href="https://twitter.com/kript0r3x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="krishnaprasadn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishnaprasadnayani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/krishna-prasad-nayani-a9baa7163/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kripra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kripra" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cyb3rm3rlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="cyb3rm3rlin" height="30" width="40" /></a>
 </p>
