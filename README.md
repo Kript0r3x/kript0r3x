@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android, python, Linux, Kali, Metasploit**
 
-- 📫 How to reach me **cyb3rm3rlin@krip.anonaddy.com**
+- 📫 How to reach me **kript0r3x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
