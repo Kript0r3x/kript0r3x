@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishnaprasad</h1>
 <!-- <h3 align="center">A passionate Android developer from India</h3> -->
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **CPTS**
 
 - 🌱 I’m currently learning **Penetration Testing**
 
